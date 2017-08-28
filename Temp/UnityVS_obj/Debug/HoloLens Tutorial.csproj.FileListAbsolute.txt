@@ -1,0 +1,26 @@
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\nunit.framework.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\nunit.framework.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_bin\Debug\Mono.Cecil.xml
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_obj\Debug\HoloLens Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_obj\Debug\HoloLens Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Connor\Documents\Unity Projects\Extra\HoloLens Tutorial\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
