@@ -1,5 +1,5 @@
 # HoloLens-101
-Learning how to program on the HoloLens
+Learning how to program on the HoloLens  </br>
 This project followed Cameron Vetter's [tutorial.](http://www.cameronvetter.com/2016/10/21/hololens-development-tutorial-based-on-talk/)
 
 ### Summary
